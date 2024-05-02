@@ -3,7 +3,7 @@
 
 I am a highly skilled and versatile professional specializing in Web Developer, WordPress theme development, web design, graphic design, and logo design. With a strong background in these disciplines, I bring a comprehensive set of expertise to create visually stunning websites, captivating graphics, and impactful logos. My dedication to delivering exceptional results and my ability to seamlessly integrate design and functionality make me a valuable asset in enhancing brand identities and providing engaging digital experiences
 
-✅ Graphic Designer
+✅ Graphic Designer<br>
 ✅ Web Developer
 ✅ Web Designer
 ✅ UI/UX Designer
